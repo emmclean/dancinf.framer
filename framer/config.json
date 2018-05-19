@@ -1,0 +1,24 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 1440,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 2560,
+  "fullScreen" : false,
+  "deviceType" : "apple-thunderbolt-display",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "projectId" : "2F274B24-A9AD-4CD1-9989-B34B805407CF",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : false,
+  "foldedCodeRanges" : [
+    "{107, 552}",
+    "{661, 645}",
+    "{1307, 613}"
+  ],
+  "deviceScale" : "fit"
+}
